@@ -1,0 +1,25 @@
+{
+  "name": "btre-bradtraversy-course",
+  "version": "1.0.0",
+  "description": "Eco Libro Library ",
+  "main": "index.js",
+  "dependencies": {
+    "@types/gsap": "^1.19.2"
+  },
+  "devDependencies": {
+    "@types/greensock": "^1.15.32"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradtraversy/btre_project.git"
+  },
+  "author": "Christian Nogueras Rosado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradtraversy/btre_project/issues"
+  },
+  "homepage": "https://github.com/bradtraversy/btre_project#readme"
+}
